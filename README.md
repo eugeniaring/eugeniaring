@@ -1,5 +1,14 @@
 ### Hi there. I am Eugenia! 👋
 
+* :handbag: I am a Data Scientist and a Research Fellow at University of Padova, focusing on Anomaly Detection and Continual Learning.
+* :surfer: I am a passionate of machine learning and a fast learner
+* :pencil2: I like to write and share my knowledge and my experience with other data science practioners of all the world on Medium
+* Connect with me on:
+   * [LinkedIn](https://www.linkedin.com/in/eugenia-anello/)
+   * [Medium](https://medium.com/@eugenia-anello)
+   * [Twitter](https://twitter.com/AnelloEugenia)
+
+
 <!--
 **eugeniaring/eugeniaring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
