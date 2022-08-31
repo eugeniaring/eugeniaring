@@ -10,6 +10,7 @@
 
 ### :dart: Check out my latest Blog Posts
 
+* <a href="http://example.com/" target="_blank">Hello, world!</a>
 * [GANomaly Paper Review: Semi-Supervised Anomaly Detection via Adversarial Training](https://towardsdatascience.com/ganomaly-paper-review-semi-supervised-anomaly-detection-via-adversarial-training-a6f7a64a265f)
 * [How to build a Web App to Transcribe and Summarize audio with Python](https://towardsdatascience.com/how-to-build-a-web-app-to-transcribe-and-summarize-audio-with-python-dc719cb9e1f5?sk=96f349f866419fe55cd6a1496e740069)
 * [Three ways to parse arguments in your Python code](https://towardsdatascience.com/three-ways-to-parse-arguments-in-your-python-code-aba092e8ad73?sk=190d2dfa79c4903959ea8946039d9aa5)
