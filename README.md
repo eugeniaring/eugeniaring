@@ -10,8 +10,7 @@
 
 ### :dart: Check out my latest Blog Posts
 
-* [How to build a Shazam-like Telegram Bot using Python](https://towardsdatascience.com/how-to-build-a-shazam-like-telegram-bot-using-python-98dc081c53d5?sk=ab629aad0f5fe7810027cdce5ee4165b)
-* [Topic Modeling for E-commerce Reviews using BERTopic](https://pub.towardsai.net/topic-modeling-for-e-commerce-reviews-using-bertopic-b1b9e85c710b?sk=ee49a5935cb0a4945492f7d7cf69a353)
-* [My Pandas Cheatsheet for Exploratory Analysis and Data Manipulation](https://pub.towardsai.net/my-pandas-cheatsheet-for-exploratory-analysis-and-data-manipulation-75c8ea462d12?sk=1c13f2cc47bc36de31daed472fc5c4e4)
-* [Building a Web Application to detect Breast Cancer in Ultrasound images](https://medium.com/mlearning-ai/building-a-web-application-to-detect-breast-cancer-in-ultrasound-images-df391483fbd9)
+* [Top 5 Python Libraries for Extracting Text from Images](https://towardsdatascience.com/top-5-python-libraries-for-extracting-text-from-images-c29863b2f3d?sk=e4af6f587321efb73bc839ac4e74b982)
+* [7 Steps to Mastering Data Cleaning and Preprocessing Techniques](https://www.kdnuggets.com/2023/08/7-steps-mastering-data-cleaning-preprocessing-techniques.html)
+* [Geospatial Data Analysis with GeoPandas](https://towardsdatascience.com/geospatial-data-analysis-with-geopandas-876cb72721cb?sk=042a0f2fb834cb08ffd0f74eb856e7e1)
 
