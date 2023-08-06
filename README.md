@@ -2,7 +2,7 @@
 
 * :nerd_face: I am a Data Scientist and a Technical Writer on Towards Data Science.
 * :surfer: I am a passionate of machine learning and a fast learner
-* :pencil2: I like to write and share my knowledge and my experience with other data science practioners of all the world on Medium
+* :pencil2: I like to write and share my knowledge and my experience with other data science practitioners of all the world on Medium
 * Connect with me on:
    * :handbag: [LinkedIn](https://www.linkedin.com/in/eugenia-anello/)
    * :blue_book: [Medium](https://medium.com/@eugenia-anello)
